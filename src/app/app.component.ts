@@ -11,5 +11,5 @@ import { NavbarComponent } from './portfolio-website/navbar/navbar.component';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'project1';
+  title = 'my-portfolio';
 }
